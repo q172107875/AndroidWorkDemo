@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 locationAndContactsTask();
                 break;
             case R.id.fragment:
-
                 break;
         }
     }
